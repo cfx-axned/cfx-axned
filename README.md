@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://ahmedikram.net"><img src="https://img.shields.io/badge/Portfolio-ahmedikram.net-23F179?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   <a href="https://vantixstudios.net"><img src="https://img.shields.io/badge/Store-vantixstudios.net-0d1117?style=for-the-badge&logo=shopify&logoColor=23F179" /></a>
-  <a href="https://linkedin.com/in/ahmedikram"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Ikram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmedikram-dev"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Ikram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/s/0DDv87a"><img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="https://discord.gg/vantixstudios"><img src="https://img.shields.io/badge/Discord-Vantix_Studios-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://youtube.com/@vantixstudios"><img src="https://img.shields.io/badge/YouTube-@vantixstudios-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:contact@ahmedikram.net"><img src="https://img.shields.io/badge/Email-contact@ahmedikram.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
